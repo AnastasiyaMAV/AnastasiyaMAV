@@ -22,8 +22,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnastasiyaMAV&theme=noctis-minimus&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-<p><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png"> 
-Get streak stats for your profile at <a href="https://git.io/streak-stats" rel="nofollow">git.io/streak-stats</a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"></a></a></p>
+<p><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png"> </a></p>
 
 ## Statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiyaMAV&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
