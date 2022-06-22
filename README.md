@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🚀
 ## Technology stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=e0522b)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=2631c9)
@@ -20,26 +20,12 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
 ![Yandex Tracker](https://img.shields.io/badge/-Yandex_Tracker-090909?style=for-the-badge&logo=Yandex_Tracker)
 
+## 📈 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnastasiyaMAV&theme=noctis-minimus&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-<p><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png"> </a></p>
-
-## Statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiyaMAV&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaMAV&layout=compact&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**AnastasiyaMAV/AnastasiyaMAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastua_mav)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0-948427225/)
