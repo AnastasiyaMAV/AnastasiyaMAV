@@ -6,6 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=REACT&logoColor=329cd9)
 ![React Router](https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=react-router&logoColor=FFC133)
+![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Context](https://img.shields.io/badge/-Context-090909?style=for-the-badge&logo=Context)
 ![MobX](https://img.shields.io/badge/MobX-090909?style=for-the-badge&logo=MobX)
 ![NodeJS](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=node.js&logoColor=33FF42)
