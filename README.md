@@ -26,7 +26,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiyaMAV&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaMAV)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaMAV&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastua_mav)
