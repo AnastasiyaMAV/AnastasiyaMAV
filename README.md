@@ -22,12 +22,12 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
 ![Yandex Tracker](https://img.shields.io/badge/-Yandex_Tracker-090909?style=for-the-badge&logo=Yandex_Tracker)
 
+## Contacts:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastua_mav)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0-948427225/)
+
 ## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiyaMAV&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaMAV&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastua_mav)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0-948427225/)
