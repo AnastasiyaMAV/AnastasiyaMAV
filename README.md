@@ -2,14 +2,17 @@
 ## Technology stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=e0522b)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=2631c9)
-![SASS](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=SASS&logoColor=d13ddb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=REACT&logoColor=329cd9)
 ![React Router](https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=react-router&logoColor=FFC133)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![SASS](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=SASS&logoColor=d13ddb)
+![styled-components](https://img.shields.io/badge/-styledComponents-090909?style=for-the-badge&logo=styled-components)
 ![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=Webpack)
+![Vite](https://img.shields.io/badge/Vite-090909?style=for-the-badge&logo=Vite)
 ![Context](https://img.shields.io/badge/-Context-090909?style=for-the-badge&logo=Context)
 ![MobX](https://img.shields.io/badge/MobX-090909?style=for-the-badge&logo=MobX)
+![Nano Stores](https://img.shields.io/badge/NanoStores-090909?style=for-the-badge&logo=NanoStores)
 ![NodeJS](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=node.js&logoColor=33FF42)
 ![ESLint](https://img.shields.io/badge/ESLint-090909?style=for-the-badge&logo=eslint)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
@@ -22,6 +25,8 @@
 ![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=Trello)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
 ![Yandex Tracker](https://img.shields.io/badge/-Yandex_Tracker-090909?style=for-the-badge&logo=Yandex_Tracker)
+![Keycloak](https://img.shields.io/badge/Keycloak-090909?style=for-the-badge&logo=Keycloak)
+![WebRTC](https://img.shields.io/badge/WebRTC-090909?style=for-the-badge&logo=WebRTC)
 
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nastua_mav)
