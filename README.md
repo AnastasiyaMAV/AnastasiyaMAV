@@ -17,7 +17,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Figma](https://shields.io/badge/-Figma-090909?logo=figma&style=for-the-badge&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Gitlab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
+![Gitlab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-090909?style=for-the-badge&logo=Bitbucket)
 ![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=Trello)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
